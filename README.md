@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src = "https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae">
 </p>
 # 💫 About Me:
