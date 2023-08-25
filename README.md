@@ -1,3 +1,5 @@
+![silver-wolf-bronya](https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae)
+
 # 💫 About Me:
 👋 Hey, I'm Prajwal, a coding enthusiast on an exciting journey. With Python as my trusty companion, I'm not just diving into machine learning; I'm also turning roadblocks into opportunities.
 
@@ -6,7 +8,6 @@ Life taught me that challenges are our greatest teachers. Through coding, I've l
 Beyond the screen, I'm an avid music listener, manga aficionado, and enthusiastic singer. Whether it's belting out tunes, immersing myself in captivating manga worlds, or simply exploring new tech horizons, I find inspiration everywhere especially those anime visuals. :kissing_closed_eyes:
 
 Join me as I navigate the digital realm, one line of code at a time. Let's share the triumphs, conquer the bugs, and celebrate the victories together. The journey is exciting, and it's even better with great company. 🌟🚀
-![Uploading silver-wolf-bronya.gif…]()
 
 
 ## 🌐 Socials:
