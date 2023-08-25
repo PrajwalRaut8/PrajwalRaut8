@@ -6,8 +6,8 @@ Life taught me that challenges are our greatest teachers. Through coding, I've l
 Beyond the screen, I'm an avid music listener, manga aficionado, and enthusiastic singer. Whether it's belting out tunes, immersing myself in captivating manga worlds, or simply exploring new tech horizons, I find inspiration everywhere especially those anime visuals. :kissing_closed_eyes:
 
 Join me as I navigate the digital realm, one line of code at a time. Let's share the triumphs, conquer the bugs, and celebrate the victories together. The journey is exciting, and it's even better with great company. 🌟🚀
+![Uploading silver-wolf-bronya.gif…]()
 
-<img alt="coding" wifth="400" src = "https://i.makeagif.com/media/5-04-2023/hHsBCF.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-raut8/) 
