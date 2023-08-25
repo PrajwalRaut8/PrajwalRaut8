@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="https://media.tenor.com/rE7Ehf7xMkAAAAAC/silver-wolf-bronya.gif">
-</p>
-<!-- ![silver-wolf-bronya](https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae) -->
+![silver-wolf-bronya](https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae)
 
 # 💫 About Me:
 👋 Hey, I'm Prajwal, a coding enthusiast on an exciting journey. With Python as my trusty companion, I'm not just diving into machine learning; I'm also turning roadblocks into opportunities.
