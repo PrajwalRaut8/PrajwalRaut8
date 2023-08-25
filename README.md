@@ -1,4 +1,4 @@
-<h1 align = "center"> 👋 Hi, I'm Prajwal </h1>
+<h1 align = "center">  Hi 👋, I'm Prajwal Raut </h1>
 <h3 align = "center"> AI enthusiast and Python coder </h3>
 <p align="center">
   <img src = "https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae">
