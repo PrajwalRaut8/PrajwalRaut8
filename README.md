@@ -1,8 +1,9 @@
+<h1 align = "center"> 👋 Hi, I'm Prajwal </h1>
 <p align="center">
   <img src = "https://github.com/PrajwalRaut8/PrajwalRaut8/assets/143160391/84933ff2-509f-40be-ac80-3574e7d17dae">
 </p>
 # 💫 About Me:
-👋 Hey, I'm Prajwal, a coding enthusiast on an exciting journey. With Python as my trusty companion, I'm not just diving into machine learning; I'm also turning roadblocks into opportunities.
+A coding enthusiast on an exciting journey. With Python as my trusty companion, I'm not just diving into machine learning; I'm also turning roadblocks into opportunities.
 
 Life taught me that challenges are our greatest teachers. Through coding, I've learned to turn frustrations into eureka moments and errors into stepping stones. Each line of code is a chance to create, to learn, and to persevere.
 
