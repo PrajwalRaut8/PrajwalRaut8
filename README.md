@@ -7,7 +7,7 @@ Beyond the screen, I'm an avid music listener, manga aficionado, and enthusiasti
 
 Join me as I navigate the digital realm, one line of code at a time. Let's share the triumphs, conquer the bugs, and celebrate the victories together. The journey is exciting, and it's even better with great company. 🌟🚀
 
-<img align = "right" alt="coding" wifth="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsilver-wolf-bronya-hacker-honkai-ulti-gif-25556601&psig=AOvVaw10urvW87PSqciUDSMEM_f1&ust=1693034433813000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjnkfai94ADFQAAAAAdAAAAABBN">
+<img align = "right" alt="coding" wifth="400" src = "https://i.makeagif.com/media/5-04-2023/hHsBCF.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-raut8/) 
